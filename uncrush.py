@@ -7,4 +7,5 @@ hobi = 'bermain game'
 print(
     'Hai gaess,perkenalkan nama saya', nama,', umur saya', umur,', 
     'saya berasal dari', asal,', saya kuliah di', kuliah,',
-    'program studi', prodi,', hobi saya', hobi,', oke salken ya gaessss:)
+    'program studi', prodi,', hobi saya', hobi,', oke salken ya gaessss
+)
